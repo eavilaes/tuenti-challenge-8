@@ -26,3 +26,5 @@ for x in range(1,T+1): #para cada caso
         codMenor = codMenor + (menor[i] * (base**(base-i-1)))
 
     output.write("Case #{}: {}\n".format(x,(codMayor-codMenor)))
+input.close()
+output.close()

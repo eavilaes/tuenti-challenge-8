@@ -7,3 +7,5 @@ for i in range(1,C):
     line = lines[i].split(" ")
     sol = (int(line[0])-1) * (int(line[1])-1)
     out.write("Case #{}: {}\n".format(i,sol))
+input.close()
+out.close()
