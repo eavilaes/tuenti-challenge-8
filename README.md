@@ -3,7 +3,7 @@
 
 My solutions for Tuenti Challenge 8.
 
-The statement for each problem may be uploaded later.
+
 
 
 ## Author
